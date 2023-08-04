@@ -1,0 +1,7 @@
+.modal-footerButton-container{
+    justify-content: flex-start !important;
+}
+
+.modal-footerButton{
+    width:100px;
+}

@@ -1,0 +1,16 @@
+{
+    "name": "sentara-image-cropper",
+    "version": "1.0.0",
+    "description": "React web component for Sentara to implement Image cropper",
+    "main": "src/index.tsx",
+    "keywords": ["image", "cropper", "react"],
+    "author": "Sentara",
+    "license": "MIT",
+    "dependencies": {
+        "react-avatar-edit": "^1.2.0"
+      },
+    "peerDependencies": {
+      "react": "^17.0.2",
+      "react-bootstrap": "^1.6.1"
+    }
+  }

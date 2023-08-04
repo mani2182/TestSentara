@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot for SentaraImageCropper takes snapShot of the component 1`] = `
+<SentaraImageCropper
+  backgroundColor="white"
+  buttonName="Save"
+  callCroppedImage={[Function]}
+  imageCrop={true}
+  isDialogVisible={[Function]}
+  modalTitle="Crop Image"
+  saveCropImage={[MockFunction]}
+  shadingColor="black"
+/>
+`;
