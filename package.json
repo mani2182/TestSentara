@@ -11,6 +11,6 @@
       },
     "peerDependencies": {
       "react": "18.2.0",
-      "react-bootstrap": "^1.6.1"
+      "react-bootstrap": "2.7.4"
     }
   }
