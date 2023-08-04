@@ -10,7 +10,7 @@
         "react-avatar-edit": "^1.2.0"
       },
     "peerDependencies": {
-      "react": "^17.0.2",
+      "react": "18.2.0",
       "react-bootstrap": "^1.6.1"
     }
   }
